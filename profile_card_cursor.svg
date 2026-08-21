@@ -1,58 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Menlo,monospace" width="1214px" height="590px" font-size="15px">
-<rect width="1214px" height="590px" fill="#1e1e1e" rx="14"/>
-<text x="20" y="30" fill="#f7f7f4" xml:space="preserve">
-<tspan x="20" y="30">                                                  </tspan>
-<tspan x="20" y="50">              .+             .:                   </tspan>
-<tspan x="20" y="70">            .=#+     .-++-===*=                   </tspan>
-<tspan x="20" y="90">             =* =+== -=  :--::::: .-#=            </tspan>
-<tspan x="20" y="110">              ::: :=-+-:.:--*#*+==++-%:           </tspan>
-<tspan x="20" y="130">            ::  =#+:--*+-+*#%*+-=#++:===+*        </tspan>
-<tspan x="20" y="150">           :%:.%@*.-=--=*+-=#*+#++=#+.+%@*        </tspan>
-<tspan x="20" y="170">        -+ -*+=#+:=*#+-=--+:-*=**=:**=+**.        </tspan>
-<tspan x="20" y="190">        %%*.=**##+:.   -+--:::-+**==#*%==*=.      </tspan>
-<tspan x="20" y="210">    ++. *%=.+#-::.     .-=- : .  --==.-+=*=.      </tspan>
-<tspan x="20" y="230">    :%%-:*-.=-                      -= -.*#       </tspan>
-<tspan x="20" y="250">       .++*+            .===.=##=.=       =       </tspan>
-<tspan x="20" y="270">        -**-==-        .:-=.=---:.:. -.           </tspan>
-<tspan x="20" y="290">         +- =*=            .#.   -#+              </tspan>
-<tspan x="20" y="310">         ++=:       .--=   +@**+*@@:              </tspan>
-<tspan x="20" y="330">           -*::      +*+   -%*%@@%=               </tspan>
-<tspan x="20" y="350">             -*=      -:   =%+*#@*                </tspan>
-<tspan x="20" y="370">              -=.           -#%#*                 </tspan>
-<tspan x="20" y="390">                -         ::=+##+-                </tspan>
-<tspan x="20" y="410">                :         ::-*+ *-:               </tspan>
-<tspan x="20" y="430">                :.       ==+#+ *#+###%%*=         </tspan>
-<tspan x="20" y="450">           .:. .             .#%#*@@@@#*+*=       </tspan>
-<tspan x="20" y="470">          :.                 *%#-+@%*-==:.        </tspan>
-<tspan x="20" y="490">        ..                  *+:   :               </tspan>
-<tspan x="20" y="510">             ..            =-                     </tspan>
-<tspan x="20" y="530">               ..                                 </tspan>
-<tspan x="20" y="550">                                                  </tspan>
-</text>
-<text x="500" y="30" fill="#f7f7f4">
-<tspan x="500" y="30"><tspan fill="#f54e00">harsh@github</tspan><tspan fill="#5a5852"> ---------------------------------------------------------------</tspan></tspan>
-<tspan x="500" y="50"><tspan fill="#f54e00">. Name:</tspan><tspan fill="#5a5852">............ </tspan><tspan fill="#9fbbe0">Harsh Bhardwaj</tspan></tspan>
-<tspan x="500" y="70"><tspan fill="#f54e00">. Handle:</tspan><tspan fill="#5a5852">.......... </tspan><tspan fill="#9fbbe0">HA2345567</tspan></tspan>
-<tspan x="500" y="90"><tspan fill="#f54e00">. Role:</tspan><tspan fill="#5a5852">............ </tspan><tspan fill="#9fbbe0">AI Engineer, Backend Dev</tspan></tspan>
-<tspan x="500" y="110"><tspan fill="#f54e00">. Focus:</tspan><tspan fill="#5a5852">........... </tspan><tspan fill="#9fbbe0">Solana (Rust / Anchor)</tspan></tspan>
-<tspan x="500" y="130"><tspan fill="#f54e00">. Location:</tspan><tspan fill="#5a5852">........ </tspan><tspan fill="#9fbbe0">New Delhi, India</tspan></tspan>
-<tspan x="500" y="150" fill="#9fbbe0"></tspan>
-<tspan x="500" y="170"><tspan fill="#f54e00">. Site:</tspan><tspan fill="#5a5852">............ </tspan><tspan fill="#9fbbe0">harshuu.me</tspan></tspan>
-<tspan x="500" y="190"><tspan fill="#f54e00">. X:</tspan><tspan fill="#5a5852">............... </tspan><tspan fill="#9fbbe0">@harshuu369</tspan></tspan>
-<tspan x="500" y="210"><tspan fill="#f54e00">. GitHub:</tspan><tspan fill="#5a5852">.......... </tspan><tspan fill="#9fbbe0">github.com/HA2345567</tspan></tspan>
-<tspan x="500" y="230" fill="#9fbbe0"></tspan>
-<tspan x="500" y="250"><tspan fill="#f54e00">. Languages:</tspan><tspan fill="#5a5852">....... </tspan><tspan fill="#9fbbe0">TypeScript, Rust, Python</tspan></tspan>
-<tspan x="500" y="270" fill="#9fbbe0"></tspan>
-<tspan x="500" y="290"><tspan fill="#f54e00">- GitHub Stats </tspan><tspan fill="#5a5852">-------------------------------------------------------------</tspan></tspan>
-<tspan x="500" y="310"><tspan fill="#f54e00">. Repos:</tspan><tspan fill="#5a5852">    </tspan><tspan fill="#9fbbe0">74           Stars:    40</tspan></tspan>
-<tspan x="500" y="330"><tspan fill="#f54e00">. Followers:</tspan><tspan fill="#5a5852"></tspan><tspan fill="#9fbbe0">95           Following:194</tspan></tspan>
-<tspan x="500" y="350"><tspan fill="#f54e00">. Achievements:</tspan><tspan fill="#5a5852">.... </tspan><tspan fill="#9fbbe0">Pull Shark x2, YOLO</tspan></tspan>
-<tspan x="500" y="370" fill="#9fbbe0"></tspan>
-<tspan x="500" y="390"><tspan fill="#f54e00">- Top Repos </tspan><tspan fill="#5a5852">----------------------------------------------------------------</tspan></tspan>
-<tspan x="500" y="410" fill="#9fbbe0">. CEX_Exchange ........... real-time crypto exchange, sub-ms matching engine</tspan>
-<tspan x="500" y="430" fill="#9fbbe0">. Heliora ................ Solana-native AI prediction market protocol</tspan>
-<tspan x="500" y="450" fill="#9fbbe0">. SmartInvoice ........... invoicing app for freelancers &amp; small business</tspan>
-<tspan x="500" y="470" fill="#9fbbe0">. cex_orderbook .......... Rust orderbook for ultra-fast bid/ask matching</tspan>
-<tspan x="500" y="490" fill="#9fbbe0">. awesome-autonomus-ai-agents . curated list of 300+ AI agent frameworks</tspan>
-</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180px" height="670px" viewBox="0 0 1180 670">
+  <style>
+    .window-frame {
+      fill: #0d1117;
+      stroke: #30363d;
+      stroke-width: 1.5px;
+      rx: 14px;
+    }
+    .top-bar-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #8b949e;
+    }
+    .terminal-bg {
+      fill: #161b22;
+      stroke: #21262d;
+      stroke-width: 1px;
+      rx: 10px;
+    }
+    .ascii-text {
+      font-family: Consolas, "Courier New", Menlo, Monaco, monospace;
+      font-size: 12.5px;
+      fill: #c9d1d9;
+      letter-spacing: 0px;
+    }
+    .info-text {
+      font-family: Consolas, "Courier New", Menlo, Monaco, monospace;
+      font-size: 13.5px;
+      letter-spacing: 0px;
+    }
+  </style>
+
+  <!-- Outer Card Frame -->
+  <rect width="1180" height="670" class="window-frame" />
+
+  <!-- Top File Header (match user reference image) -->
+  <text x="25" y="32" class="top-bar-text">HA2345567 / README.md</text>
+
+  <!-- Inner Terminal Container -->
+  <rect x="20" y="48" width="1140" height="602" class="terminal-bg" />
+
+  <!-- Left ASCII Art Portrait -->
+  <text class="ascii-text" xml:space="preserve">
+<tspan x="45" y="95.0">XO0OqOYYYYXXmwL0UYOZX0OXLQLQXZ0OYOwmomLZ0ZXZQ</tspan>
+<tspan x="45" y="112.5">XZZXqqYZXX00kwh#pZYXZZYXXYXpZXLqZZOZO0OOQdmdd</tspan>
+<tspan x="45" y="130.0">mkwdqOZXOLZOmLbmLXXUUZ0kaddLLLOL0ZmQ0000Oakmw</tspan>
+<tspan x="45" y="147.5">wLwhkLZOOqLZYUUYUXOpwdqQf/r1]-](UY0bpQQQQpLQm</tspan>
+<tspan x="45" y="165.0">L00wXXXLZYOZQOXOOJjt1~I^        ^&gt;?zXbm0Q0OOO</tspan>
+<tspan x="45" y="182.5">ZOZZbmZO0QmpQbqj&gt;`                .i}xb0Lqqdp</tspan>
+<tspan x="45" y="200.0">ZOOXOZZOZLmwwm+     ^;&gt;_]1])[l.     ;\Lmwkkdk</tspan>
+<tspan x="45" y="217.5">qwwm0XXUJxJXCi    ;]fULLLOQhdmC]^  `!tQ0bdpdq</tspan>
+<tspan x="45" y="235.0">QqLdk0YJJOCz&gt; . :?rXLdahp0o#*ahmzl.}X0JY0mwqq</tspan>
+<tspan x="45" y="252.5">LOQLOmJzzUxr,  ~jUQmpk*Mbb@@B%#w0/ ?bhdLLwqmw</tspan>
+<tspan x="45" y="270.0">ZZOZJ00xynxyI ,xZ0wqda#MMM$@@%ow0r`^Zm0Qppqkk</tspan>
+<tspan x="45" y="287.5">0Lbw0mJzxyCJf`IUyxJUQkM%$$@$$%oqm/ ~OQLLm*okb</tspan>
+<tspan x="45" y="305.0">qwqOqwXyyCXzU!]Oy\1[?_1O#8MhwYJUJI]pwQQLQhbqp</tspan>
+<tspan x="45" y="322.5">LQOYZCzxCyxX\:Ommrz[/Xffm*Lf~&lt;}{{rboddmQLwmLm</tspan>
+<tspan x="45" y="340.0">OYUUxO0yCCCZz[qboobqpqYzqoZC(fXJmpqbmwkLQwwwq</tspan>
+<tspan x="45" y="357.5">OQXXXyzyyyYYZfLhM8888hL0aMp*##*#QXZQwqkL0phdb</tspan>
+<tspan x="45" y="375.0">qmmwO0CCnnrnx)yQb#%@*0LbW&amp;k%$B%kZZ0OOO0Xmkmww</tspan>
+<tspan x="45" y="392.5">L00OLLOxjjCj\1(fOmCzJ/(XohOb#MLxXYQdQpOYOOO0m</tspan>
+<tspan x="45" y="410.0">ZZUyCnJCt//\|(}/0X({(\\jft([jC}yJUQmw*hLXZOZZ</tspan>
+<tspan x="45" y="427.5">UJCUXyCJt|11{()~(jCOzXqwQYCr/(nUCnzUUXCUUQZ0w</tspan>
+<tspan x="45" y="445.0">OO0L0UYt{]?]+&lt;i_}&lt;-jZXrjUZx}{?[tJzrnrnyzC0dQ0</tspan>
+<tspan x="45" y="462.5">k0UJnr)?_&lt;!!,._ynj1&lt;_1)11-{Ut. `I-(UZJCyzXLUX</tspan>
+<tspan x="45" y="480.0">Unf(?&lt;I,^&#x27;    ~rxJOLCrnjtCmf`      `l&lt;\zXXJCC</tspan>
+<tspan x="45" y="497.5">/)&lt;;`         IfU0YbokwLQy&gt;            :{nX0m</tspan>
+<tspan x="45" y="515.0">_^            &quot;JLQ0ZLUj|+&#x27;                ,&lt;[</tspan>
+<tspan x="45" y="532.5">               &lt;LY-:;,^                      </tspan>
+<tspan x="45" y="550.0">                |ZI                          </tspan>
+<tspan x="45" y="567.5">                &quot;JI                          </tspan>
+<tspan x="45" y="585.0">                 l&#x27;                          </tspan>
+<tspan x="45" y="602.5">                                             </tspan>
+<tspan x="45" y="620.0">                                             </tspan>
+  </text>
+
+  <!-- Right Information & Stats Panel -->
+  <text class="info-text" xml:space="preserve">
+<tspan x="485" y="95.0"><tspan fill="#f78166">harsh@HA2345567</tspan><tspan fill="#484f58"> -------------------------------------------------------</tspan></tspan>
+<tspan x="485" y="115.5"><tspan fill="#f78166">. OS:</tspan><tspan fill="#484f58">....................... </tspan><tspan fill="#a5d6ff">Windows 11, Linux (WSL2), Android</tspan></tspan>
+<tspan x="485" y="136.0"><tspan fill="#f78166">. Uptime:</tspan><tspan fill="#484f58">................... </tspan><tspan fill="#a5d6ff">21 years, 8 months</tspan></tspan>
+<tspan x="485" y="156.5"><tspan fill="#f78166">. Host:</tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#a5d6ff">AI Engineer &amp; Full Stack Dev</tspan></tspan>
+<tspan x="485" y="177.0"><tspan fill="#f78166">. Kernel:</tspan><tspan fill="#484f58">................... </tspan><tspan fill="#a5d6ff">Rust, TypeScript, Python, Solana</tspan></tspan>
+<tspan x="485" y="197.5"><tspan fill="#f78166">. IDE:</tspan><tspan fill="#484f58">...................... </tspan><tspan fill="#a5d6ff">VSCode, Cursor, Antigravity IDE</tspan></tspan>
+<tspan x="485" y="238.5"><tspan fill="#f78166">. Languages.Programming:</tspan><tspan fill="#484f58">.... </tspan><tspan fill="#a5d6ff">TypeScript, Rust, Python, C++</tspan></tspan>
+<tspan x="485" y="259.0"><tspan fill="#f78166">. Languages.Frameworks:</tspan><tspan fill="#484f58">..... </tspan><tspan fill="#a5d6ff">Next.js, Anchor, Node.js, FastAPI</tspan></tspan>
+<tspan x="485" y="279.5"><tspan fill="#f78166">. Languages.Real:</tspan><tspan fill="#484f58">............ </tspan><tspan fill="#a5d6ff">English, Hindi</tspan></tspan>
+<tspan x="485" y="320.5"><tspan fill="#f78166">. Hobbies.Software:</tspan><tspan fill="#484f58">........ </tspan><tspan fill="#a5d6ff">Open Source, AI Agents, Trading Bots</tspan></tspan>
+<tspan x="485" y="341.0"><tspan fill="#f78166">. Hobbies.Hardware:</tspan><tspan fill="#484f58">........ </tspan><tspan fill="#a5d6ff">Custom PC Building, Microcontrollers</tspan></tspan>
+<tspan x="485" y="382.0"><tspan fill="#f78166">- Contact</tspan><tspan fill="#484f58"> -------------------------------------------------------</tspan></tspan>
+<tspan x="485" y="402.5"><tspan fill="#f78166">. Email.Personal:</tspan><tspan fill="#484f58">........... </tspan><tspan fill="#a5d6ff">bhardwajharsh0312@gmail.com</tspan></tspan>
+<tspan x="485" y="423.0"><tspan fill="#f78166">. Email.Work:</tspan><tspan fill="#484f58">............... </tspan><tspan fill="#a5d6ff">harsh@harshuu.me</tspan></tspan>
+<tspan x="485" y="443.5"><tspan fill="#f78166">. Website:</tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#a5d6ff">harshuu.me</tspan></tspan>
+<tspan x="485" y="464.0"><tspan fill="#f78166">. X / Twitter:</tspan><tspan fill="#484f58">............. </tspan><tspan fill="#a5d6ff">@harshuu369</tspan></tspan>
+<tspan x="485" y="484.5"><tspan fill="#f78166">. GitHub:</tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#a5d6ff">github.com/HA2345567</tspan></tspan>
+<tspan x="485" y="525.5"><tspan fill="#f78166">- GitHub Stats</tspan><tspan fill="#484f58"> ---------------------------------------------------</tspan></tspan>
+<tspan x="485" y="546.0"><tspan fill="#f78166">. Repos:</tspan><tspan fill="#484f58"> .... </tspan><tspan fill="#a5d6ff">74 </tspan><tspan fill="#e3b341">{Contributed: 85}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#f78166">Stars:</tspan><tspan fill="#484f58"> .......... </tspan><tspan fill="#a5d6ff">40</tspan></tspan>
+<tspan x="485" y="566.5"><tspan fill="#f78166">. Commits:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#a5d6ff">2,150+ </tspan><tspan fill="#484f58">| </tspan><tspan fill="#f78166">Followers:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#a5d6ff">95</tspan></tspan>
+<tspan x="485" y="587.0"><tspan fill="#f78166">. Lines of Code:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#a5d6ff">384,120 </tspan><tspan fill="#484f58">( </tspan><tspan fill="#7ee787">412,890++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#ffa657">28,770--</tspan><tspan fill="#484f58"> )</tspan></tspan>
+  </text>
 </svg>

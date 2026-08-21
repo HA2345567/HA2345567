@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180px" height="670px" viewBox="0 0 1180 670">
+<svg xmlns="http://www.w3.org/2000/svg" width="1250px" height="750px" viewBox="0 0 1250 750">
   <style>
     .window-frame {
       fill: #0d1117;
@@ -20,7 +20,7 @@
     }
     .ascii-text {
       font-family: Consolas, "Courier New", Menlo, Monaco, monospace;
-      font-size: 12.5px;
+      font-size: 7.8px;
       fill: #c9d1d9;
       letter-spacing: 0px;
     }
@@ -32,71 +32,107 @@
   </style>
 
   <!-- Outer Card Frame -->
-  <rect width="1180" height="670" class="window-frame" />
+  <rect width="1250" height="750" class="window-frame" />
 
-  <!-- Top File Header (match user reference image) -->
+  <!-- Top File Header -->
   <text x="25" y="32" class="top-bar-text">HA2345567 / README.md</text>
 
   <!-- Inner Terminal Container -->
-  <rect x="20" y="48" width="1140" height="602" class="terminal-bg" />
+  <rect x="20" y="48" width="1210" height="682" class="terminal-bg" />
 
-  <!-- Left ASCII Art Portrait -->
+  <!-- Left User ASCII Art Portrait -->
   <text class="ascii-text" xml:space="preserve">
-<tspan x="45" y="95.0">XO0OqOYYYYXXmwL0UYOZX0OXLQLQXZ0OYOwmomLZ0ZXZQ</tspan>
-<tspan x="45" y="112.5">XZZXqqYZXX00kwh#pZYXZZYXXYXpZXLqZZOZO0OOQdmdd</tspan>
-<tspan x="45" y="130.0">mkwdqOZXOLZOmLbmLXXUUZ0kaddLLLOL0ZmQ0000Oakmw</tspan>
-<tspan x="45" y="147.5">wLwhkLZOOqLZYUUYUXOpwdqQf/r1]-](UY0bpQQQQpLQm</tspan>
-<tspan x="45" y="165.0">L00wXXXLZYOZQOXOOJjt1~I^        ^&gt;?zXbm0Q0OOO</tspan>
-<tspan x="45" y="182.5">ZOZZbmZO0QmpQbqj&gt;`                .i}xb0Lqqdp</tspan>
-<tspan x="45" y="200.0">ZOOXOZZOZLmwwm+     ^;&gt;_]1])[l.     ;\Lmwkkdk</tspan>
-<tspan x="45" y="217.5">qwwm0XXUJxJXCi    ;]fULLLOQhdmC]^  `!tQ0bdpdq</tspan>
-<tspan x="45" y="235.0">QqLdk0YJJOCz&gt; . :?rXLdahp0o#*ahmzl.}X0JY0mwqq</tspan>
-<tspan x="45" y="252.5">LOQLOmJzzUxr,  ~jUQmpk*Mbb@@B%#w0/ ?bhdLLwqmw</tspan>
-<tspan x="45" y="270.0">ZZOZJ00xynxyI ,xZ0wqda#MMM$@@%ow0r`^Zm0Qppqkk</tspan>
-<tspan x="45" y="287.5">0Lbw0mJzxyCJf`IUyxJUQkM%$$@$$%oqm/ ~OQLLm*okb</tspan>
-<tspan x="45" y="305.0">qwqOqwXyyCXzU!]Oy\1[?_1O#8MhwYJUJI]pwQQLQhbqp</tspan>
-<tspan x="45" y="322.5">LQOYZCzxCyxX\:Ommrz[/Xffm*Lf~&lt;}{{rboddmQLwmLm</tspan>
-<tspan x="45" y="340.0">OYUUxO0yCCCZz[qboobqpqYzqoZC(fXJmpqbmwkLQwwwq</tspan>
-<tspan x="45" y="357.5">OQXXXyzyyyYYZfLhM8888hL0aMp*##*#QXZQwqkL0phdb</tspan>
-<tspan x="45" y="375.0">qmmwO0CCnnrnx)yQb#%@*0LbW&amp;k%$B%kZZ0OOO0Xmkmww</tspan>
-<tspan x="45" y="392.5">L00OLLOxjjCj\1(fOmCzJ/(XohOb#MLxXYQdQpOYOOO0m</tspan>
-<tspan x="45" y="410.0">ZZUyCnJCt//\|(}/0X({(\\jft([jC}yJUQmw*hLXZOZZ</tspan>
-<tspan x="45" y="427.5">UJCUXyCJt|11{()~(jCOzXqwQYCr/(nUCnzUUXCUUQZ0w</tspan>
-<tspan x="45" y="445.0">OO0L0UYt{]?]+&lt;i_}&lt;-jZXrjUZx}{?[tJzrnrnyzC0dQ0</tspan>
-<tspan x="45" y="462.5">k0UJnr)?_&lt;!!,._ynj1&lt;_1)11-{Ut. `I-(UZJCyzXLUX</tspan>
-<tspan x="45" y="480.0">Unf(?&lt;I,^&#x27;    ~rxJOLCrnjtCmf`      `l&lt;\zXXJCC</tspan>
-<tspan x="45" y="497.5">/)&lt;;`         IfU0YbokwLQy&gt;            :{nX0m</tspan>
-<tspan x="45" y="515.0">_^            &quot;JLQ0ZLUj|+&#x27;                ,&lt;[</tspan>
-<tspan x="45" y="532.5">               &lt;LY-:;,^                      </tspan>
-<tspan x="45" y="550.0">                |ZI                          </tspan>
-<tspan x="45" y="567.5">                &quot;JI                          </tspan>
-<tspan x="45" y="585.0">                 l&#x27;                          </tspan>
-<tspan x="45" y="602.5">                                             </tspan>
-<tspan x="45" y="620.0">                                             </tspan>
+<tspan x="35" y="80.0">~,.                                                                                                                                      .,~</tspan>
+<tspan x="35" y="89.8">.                                                                                                                                          .</tspan>
+<tspan x="35" y="99.6">                                                                                                                                            </tspan>
+<tspan x="35" y="109.4">                                          ltf                                 :-.    &#x27;^                                                     </tspan>
+<tspan x="35" y="119.2">                                        ^Y$$d                             :`   /) :uhoI                                                     </tspan>
+<tspan x="35" y="129.0">                                        b$$$t              &#x27;&gt;~~~](XJ0x|/1]pv]l )?x%$L:                                                      </tspan>
+<tspan x="35" y="138.8">                                  ,_|\/+$8%M&#x27;        ~~&lt;_}][il~fZdqYJt|f1vr{\_1zQbmxx1,.                                                    </tspan>
+<tspan x="35" y="148.6">                                  ^1dB$%dodl    ,l?j}:i&gt;[? irJppu|(11/x)iI+ro8#mvft\(xt1?1[{I      -nt&gt;                                     </tspan>
+<tspan x="35" y="158.4">                                    ,/p8wk- ,I(nwOc{)}?~n&#x27;Ifzj1:;;:l?--~jnWkf1}/jft(/\)1)}``+|&lt;     ?&amp;$#-                                   </tspan>
+<tspan x="35" y="168.2">                                      iChJ1_-Lkwmu1-$*UY;^)-&lt;\jt[_~&gt;!l&gt;vC~J^?t?{&lt;+I__!&lt;}(nLj&#x27;`-}YM@plJ@$%.                                  </tspan>
+<tspan x="35" y="178.0">                                       I\(f\/}XOu}l[0mC*&lt;_]uYLQji&#x27;.  lu(;&gt;l &gt;&gt;&lt;-i(uJ0c(1I+/|/&gt;&#x27;`?/nC{C$$%(.                                 </tspan>
+<tspan x="35" y="187.8">                                        ![c_-l|]^     ./!]Ynpq|--!^i~{^&gt;i:[)JpLo$$$$hm%$#]&#x27;lX/rUJQcfx|nc$$w`                                </tspan>
+<tspan x="35" y="197.6">                                       `) {;&#x27;,I;^`-x0QCYtfnpz-[tr0On1?}+J$QJqC$$$$$qqkLXdOw%Mb8%$$qYc^&lt;?$$$&lt;,uYI    &#x27;,                      </tspan>
+<tspan x="35" y="207.4">                                  ._&#x27;l/cl^`.  _k$#W$xu&gt;;f}\\~w$$$$$L\U%@$M8o~B$$$$MjJYLri[]xUmzYXx&gt;!t&#x27;&#x27;l#%q^Lcvl\fvfY{                      </tspan>
+<tspan x="35" y="217.2">                                 &#x27;h[(1n&#x27;.  -nX$$$$$ht,[r}r]_r0#*Y/_`(Uc1ZJ{j%$%&amp;Wu!/XJOu~/0dB$&amp;UfQ#0J(i^^L~|\]-$@$@@$+                      </tspan>
+<tspan x="35" y="227.0">                                ./$k$&lt;&lt;&gt;&#x27; ,#W$$$o&amp;$Y:^1|}~:i]-_+&gt;+}\|}]11f))LUJfuCv(1uczx1?)/uc{?O#$$$az/{_{1O@$$$$$m.                      </tspan>
+<tspan x="35" y="236.8">                                 #$d%i`.&#x27;&gt;M$$$%d$pl&#x27;+{rOozzx?\rxzd8$$$aU?I!1twB$$$$k|Z$$$8jJJxncj|cdkzf/(\Q#@$$$$$#/.                       </tspan>
+<tspan x="35" y="246.6">                       &#x27;\]&#x27;     ~$$bm;fh\x$$$&amp;M$cIi)1(xt(zd0{uxfcrJCLwM$$$#x+)X%hwwJJro$$$Bj$$@L)pppz[~&gt;ifZw0w$$$$$U`                        </tspan>
+<tspan x="35" y="256.4">                        {oaJ!   &gt;$&amp;Wcn$z f@&amp;k$$J_?-&lt;]uuJb$$$X/c)i|q_&#x27;. _q*M$O:`iXw#WmX11vmdJ~v0Q/]ppod(&lt;)1cLW$$$$Wc`                        </tspan>
+<tspan x="35" y="266.2">                        x$C0mj .[Xau~o$|~JLvtf(][vpaWB8&amp;aZXf-id[&gt;+qLj:^^`.:&lt;?/f_(}(!x[+XwdQm/I.   n$$&amp;&amp;vcmj(1(t|{?][^                       </tspan>
+<tspan x="35" y="276.0">                       |@$$uC$t]lv&lt;r&amp;@qpW@$$$$du?:``:)(I     /m&#x27;&#x27;~odrz&#x27;lzq.,,` .ro|_(rLw$$$$$$kr_;^a$$$#$$$df)xv/(Xad,                      </tspan>
+<tspan x="35" y="285.8">                      _$$$$&amp;C$M(^(]JwY#hJzqph%$$$$Bc:  `!,   ~l,  am]mrur/nXc1-+-/1,!xYwr_/Cb#aOQw):bQ$]w$$$$cj[XXvumYr(i.                  </tspan>
+<tspan x="35" y="295.6">                      :W$$$W{h%f;!v~/ctuCCb$$$$*QfI ^;^...  .&#x27; &lt; .nf&lt;0ctmoQr(+1j]&#x27;1 I/n-]cQf/pO~jzcrWrq]`_@$$]nZrJh8$$$$hJ&gt;                 </tspan>
+<tspan x="35" y="305.4">         ]fvqmQOz-.    ta$$$c_{[ ?(u#M$$&amp;~.`,,. I:   `Ii!     .;l`rC~|{{?&gt;-&gt;l:^&#x27;1&gt;,!{_-_,l`}({XU]I&gt;(0rJc)&gt;;xJ)#Jz\tvQY),                    </tspan>
+<tspan x="35" y="315.2">         `  U$$WJ#d&lt;   xUq$$$|`-[jYM$8$Q&lt; ,&gt;&#x27;  .,-~`.` &#x27;    &#x27;:; &#x27;l,&gt;1\r1]&lt;,  .;+&lt;IlI`,_.   +l!:~funz|&lt;!+1}?i^?uXC[a%wz.                     </tspan>
+<tspan x="35" y="325.0">            &#x27;L$$$#Moh/?_CJmLdO~f\+v&amp;%$] ,!:iI`  . ``        .:li;,&#x27;;.&#x27;I,.   &#x27;?|tjf~!~I&lt;_;.  I:^`&#x27;.  :\zj)[!??&gt;?Y_ _&amp;$$oI                    </tspan>
+<tspan x="35" y="334.8">              {W$$$&amp;O+!i}XJ#!i~\ ,i-(l   .`;i!     &#x27;      &#x27;&#x27;  . ,:I`          ` .^&#x27;..]\}`           ;{/vc}&#x27;,}ff?i`?$$$$c                    </tspan>
+<tspan x="35" y="344.6">               `[rccUmu&gt;_Ltcpl\[/jl `   `i&lt;i&lt;!l!~I:.       `&#x27; .       :Iii;:;&#x27;    `^I_1-[(&#x27;          )zXuiI&lt;z(;(~v)IZ$$|                    </tspan>
+<tspan x="35" y="354.4">                      (Wa$w(ZZ$$m&#x27; &#x27;. ..  &#x27;!^`&#x27; .         :` ,:.`. ``,{Un_nZqf{[&#x27;?uaB$$$$dtI.,I?k-&#x27;  .:;`^:_{  ._~   &lt;bi                    </tspan>
+<tspan x="35" y="364.2">                       `v$%q?0@$f.i^.`&#x27;;,`.   .        &#x27;  i! .;.&#x27;:,!|Xd#o*$1uZ\Q?8Q$$$$$CQbc?)LhWf`  ~;:;il&gt;                                </tspan>
+<tspan x="35" y="374.0">                       i:fWd1Q$$0{xc?``,^^`          `_?+    ^,{}|XJcx0d/m$i}(rqiMjczucYJxrcnf|~`   &#x27;`-{?^                                  </tspan>
+<tspan x="35" y="383.8">                       ^qZcLUwqi &#x27;n0XQkJj]!^i;       `.               ^.!r[I&lt;I[#^(~`^,&#x27;,I;`   ^;.&lt;O`,!?_Zw/f;                               </tspan>
+<tspan x="35" y="393.6">                        &#x27;v$$L|u:,liQM$$$$@axI                                ^lZ&gt;;         .,l;!f$$:`;-,:i_l                                </tspan>
+<tspan x="35" y="403.4">                          lxv]u{^&#x27;lC$$Zv|~`                                 :|m$BQ        `&gt;1jt&amp;$$$:  i+^                                   </tspan>
+<tspan x="35" y="413.2">                        .(qaac_lIfl.+&lt;        ,^.    I&lt;[~l        `.        |W$$$jv:. `,I&gt;\ftp$$$$m`!?^                                     </tspan>
+<tspan x="35" y="423.0">                          lCpQxfrr, ~)     l&#x27;.       `-+-?^:   l+&gt;&#x27;   &#x27;    .|$$$$uk%Jt?&gt;&lt;}to$$$$$#j.&lt;;                                      </tspan>
+<tspan x="35" y="432.8">                         ^**WUZX+~1),l!    .:`        ,`!;_JoLcCqBQI^`:   . !$$$$)f$$$$$$$$$$$$$$t1:^                                       </tspan>
+<tspan x="35" y="442.6">                         ,, `\fub$$mn!&lt;]     `          ;}rZ$$$$@ML]_     &#x27;`~*$$W)o$$$$$$$$$$$$$O\.                                         </tspan>
+<tspan x="35" y="452.4">                                Im$$mcv)/)c`.;:         `i~|rXz\/|(~,     &#x27; IdM$XmZ$$$$$$$$$$$$L]&gt;                                          </tspan>
+<tspan x="35" y="462.2">                                  .:i-^^xrzj:!l            ^[+1](/1_,   .`  ,O$$daZ0dM$$$$$$$$ql]                                           </tspan>
+<tspan x="35" y="472.0">                                     i1)jc||(-,;           .)fOOn|-?;   [I  i&amp;$$$C\?vc|#$$$$$&amp;}]                                            </tspan>
+<tspan x="35" y="481.8">                                   .?nW$W#L|?} I&#x27;           ``]?--&lt;&#x27;`   ^&#x27;  ]%$$$Qxh$$Qj$$$$$v_                                             </tspan>
+<tspan x="35" y="491.6">                                       :ldhw}0&#x27; i&#x27;            `;;I^          :ux~}d$$$$Wr&amp;$$/_                                              </tspan>
+<tspan x="35" y="501.4">                                        `&amp;h: Oi  il            ` . `           ,Y$$$$$$$bwk]-                                               </tspan>
+<tspan x="35" y="511.2">                                        ,_`  Q+   ~/,            ;     :lil;_;\m#$$$O$$$$$fZf                                               </tspan>
+<tspan x="35" y="521.0">                                             fw`   .&gt;~:          .   .&#x27;&#x27;   ;]\1[i^][`Q$$#&lt;f$b                                               </tspan>
+<tspan x="35" y="530.8">                                             Ih`      I&gt;&#x27;       &#x27;&gt;i.  .]1Ucx[nmW&amp;kh#a$$Z_-L$$C,                                             </tspan>
+<tspan x="35" y="540.6">                                             .qI        ^&#x27;        &#x27;^   :-{|\l{1}I?J*@$m_,{#a1([l][.                                         </tspan>
+<tspan x="35" y="550.4">                                              x[          `        `           ^_JXfr-:`+t$wf]+}|1}!,                                       </tspan>
+<tspan x="35" y="560.2">                                              ;U                  `.`:~ru-/zL0*$$$$Mc` :/@$$(}cuuxcxtjcqpohCf~.                             </tspan>
+<tspan x="35" y="570.0">                                             l_w[                  ^:l)#%Z0&amp;$&amp;$$$$q]^.]L$$@x)n$@Uh$$$%$$$$$$$$Bwv?`                         </tspan>
+<tspan x="35" y="579.8">                                       :&lt;&lt;i^|_`1u!               `.  `I]f{;l}{cLj~;^_wUo$mC&amp;rL$$$$$$$$$$$$$$$$&amp;$$$BCi                       </tspan>
+<tspan x="35" y="589.6">                                   &gt;?{|i.` j&gt; ~;;r^               `^.&#x27;  .   .`&#x27;  `&gt;z$MYOw$$$}W$$$$$$$$$$$$$$$BqqQf_]\jfI                    </tspan>
+<tspan x="35" y="599.4">                               ;+)LOf_,_+ I/  [. l]                         &#x27;    ?OaO0#$$$$h~&amp;$$$$$$$$$$$$$mv{{!:;{&amp;&amp;wvJ-                   </tspan>
+<tspan x="35" y="609.2">                             _zQv(l^  &#x27;_  i-  _   ^                         ^.` ,&gt;(m$$$$$bXL}&amp;$$$$$$$$$$*Y]{U88ha*dLvr}I_i                  </tspan>
+<tspan x="35" y="619.0">                           &#x27;((_&gt;I.      . [^  ;                                l_}m$$$$$Qfj/Iv$$$$$$&amp;B@u_irW$Wmj&lt;.                          </tspan>
+<tspan x="35" y="628.8">                       ^;&#x27;[]i.          ,`;                                   .?fp$$%#U/{?)&lt;l_M$$$%#mui&gt;~?)?:                               </tspan>
+<tspan x="35" y="638.6">                  `II`!l&lt;U(l`      &#x27;&#x27;                                  .;l!   ,xLaaCJY/]!iI`l?z/i.`,.                                       </tspan>
+<tspan x="35" y="648.4">                I1(+!-_+}!&#x27;                                            &#x27;^..  .(d$C_^;``I_i.  `                                              </tspan>
+<tspan x="35" y="658.2">               ))l                `^;  `&#x27;                                 . +uq*U!`                                                         </tspan>
+<tspan x="35" y="668.0">               :                 ,!}!]f-;^`                              `![&amp;w/+.                                                           </tspan>
+<tspan x="35" y="677.8">                                 &#x27;;,^:!}])|{~;     ..`                 !&gt;]~r|-.                                                             </tspan>
+<tspan x="35" y="687.6">                                   &#x27;I}-_!&gt;+!i~[&lt;!Il;!I:;^    . .    ^&gt;;^I&#x27;:!^                                                               </tspan>
+<tspan x="35" y="697.4">                                          ;Ii_&lt;l!`. l-+I+lI+?((}~[f{l                                                                       </tspan>
+<tspan x="35" y="707.2">                                                      :~&gt;l.. .`,,^                                                                          </tspan>
+<tspan x="35" y="717.0">.                                                                                                                                          .</tspan>
+<tspan x="35" y="726.8">!^.                                                                                                                                      .^l</tspan>
   </text>
 
   <!-- Right Information & Stats Panel -->
   <text class="info-text" xml:space="preserve">
-<tspan x="485" y="95.0"><tspan fill="#f78166">harsh@HA2345567</tspan><tspan fill="#484f58"> -------------------------------------------------------</tspan></tspan>
-<tspan x="485" y="115.5"><tspan fill="#f78166">. OS:</tspan><tspan fill="#484f58">....................... </tspan><tspan fill="#a5d6ff">Windows 11, Linux (WSL2), Android</tspan></tspan>
-<tspan x="485" y="136.0"><tspan fill="#f78166">. Uptime:</tspan><tspan fill="#484f58">................... </tspan><tspan fill="#a5d6ff">21 years, 8 months</tspan></tspan>
-<tspan x="485" y="156.5"><tspan fill="#f78166">. Host:</tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#a5d6ff">AI Engineer &amp; Full Stack Dev</tspan></tspan>
-<tspan x="485" y="177.0"><tspan fill="#f78166">. Kernel:</tspan><tspan fill="#484f58">................... </tspan><tspan fill="#a5d6ff">Rust, TypeScript, Python, Solana</tspan></tspan>
-<tspan x="485" y="197.5"><tspan fill="#f78166">. IDE:</tspan><tspan fill="#484f58">...................... </tspan><tspan fill="#a5d6ff">VSCode, Cursor, Antigravity IDE</tspan></tspan>
-<tspan x="485" y="238.5"><tspan fill="#f78166">. Languages.Programming:</tspan><tspan fill="#484f58">.... </tspan><tspan fill="#a5d6ff">TypeScript, Rust, Python, C++</tspan></tspan>
-<tspan x="485" y="259.0"><tspan fill="#f78166">. Languages.Frameworks:</tspan><tspan fill="#484f58">..... </tspan><tspan fill="#a5d6ff">Next.js, Anchor, Node.js, FastAPI</tspan></tspan>
-<tspan x="485" y="279.5"><tspan fill="#f78166">. Languages.Real:</tspan><tspan fill="#484f58">............ </tspan><tspan fill="#a5d6ff">English, Hindi</tspan></tspan>
-<tspan x="485" y="320.5"><tspan fill="#f78166">. Hobbies.Software:</tspan><tspan fill="#484f58">........ </tspan><tspan fill="#a5d6ff">Open Source, AI Agents, Trading Bots</tspan></tspan>
-<tspan x="485" y="341.0"><tspan fill="#f78166">. Hobbies.Hardware:</tspan><tspan fill="#484f58">........ </tspan><tspan fill="#a5d6ff">Custom PC Building, Microcontrollers</tspan></tspan>
-<tspan x="485" y="382.0"><tspan fill="#f78166">- Contact</tspan><tspan fill="#484f58"> -------------------------------------------------------</tspan></tspan>
-<tspan x="485" y="402.5"><tspan fill="#f78166">. Email.Personal:</tspan><tspan fill="#484f58">........... </tspan><tspan fill="#a5d6ff">bhardwajharsh0312@gmail.com</tspan></tspan>
-<tspan x="485" y="423.0"><tspan fill="#f78166">. Email.Work:</tspan><tspan fill="#484f58">............... </tspan><tspan fill="#a5d6ff">harsh@harshuu.me</tspan></tspan>
-<tspan x="485" y="443.5"><tspan fill="#f78166">. Website:</tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#a5d6ff">harshuu.me</tspan></tspan>
-<tspan x="485" y="464.0"><tspan fill="#f78166">. X / Twitter:</tspan><tspan fill="#484f58">............. </tspan><tspan fill="#a5d6ff">@harshuu369</tspan></tspan>
-<tspan x="485" y="484.5"><tspan fill="#f78166">. GitHub:</tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#a5d6ff">github.com/HA2345567</tspan></tspan>
-<tspan x="485" y="525.5"><tspan fill="#f78166">- GitHub Stats</tspan><tspan fill="#484f58"> ---------------------------------------------------</tspan></tspan>
-<tspan x="485" y="546.0"><tspan fill="#f78166">. Repos:</tspan><tspan fill="#484f58"> .... </tspan><tspan fill="#a5d6ff">74 </tspan><tspan fill="#e3b341">{Contributed: 85}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#f78166">Stars:</tspan><tspan fill="#484f58"> .......... </tspan><tspan fill="#a5d6ff">40</tspan></tspan>
-<tspan x="485" y="566.5"><tspan fill="#f78166">. Commits:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#a5d6ff">2,150+ </tspan><tspan fill="#484f58">| </tspan><tspan fill="#f78166">Followers:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#a5d6ff">95</tspan></tspan>
-<tspan x="485" y="587.0"><tspan fill="#f78166">. Lines of Code:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#a5d6ff">384,120 </tspan><tspan fill="#484f58">( </tspan><tspan fill="#7ee787">412,890++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#ffa657">28,770--</tspan><tspan fill="#484f58"> )</tspan></tspan>
+<tspan x="690" y="110.0"><tspan fill="#f78166">harsh@HA2345567</tspan><tspan fill="#484f58"> -------------------------------------------------------</tspan></tspan>
+<tspan x="690" y="132.0"><tspan fill="#f78166">. OS:</tspan><tspan fill="#484f58">....................... </tspan><tspan fill="#a5d6ff">Windows 11, Linux (WSL2), Android</tspan></tspan>
+<tspan x="690" y="154.0"><tspan fill="#f78166">. Uptime:</tspan><tspan fill="#484f58">................... </tspan><tspan fill="#a5d6ff">21 years, 8 months</tspan></tspan>
+<tspan x="690" y="176.0"><tspan fill="#f78166">. Host:</tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#a5d6ff">AI Engineer &amp; Full Stack Dev</tspan></tspan>
+<tspan x="690" y="198.0"><tspan fill="#f78166">. Kernel:</tspan><tspan fill="#484f58">................... </tspan><tspan fill="#a5d6ff">Rust, TypeScript, Python, Solana</tspan></tspan>
+<tspan x="690" y="220.0"><tspan fill="#f78166">. IDE:</tspan><tspan fill="#484f58">...................... </tspan><tspan fill="#a5d6ff">VSCode, Cursor, Antigravity IDE</tspan></tspan>
+<tspan x="690" y="264.0"><tspan fill="#f78166">. Languages.Programming:</tspan><tspan fill="#484f58">.... </tspan><tspan fill="#a5d6ff">TypeScript, Rust, Python, C++</tspan></tspan>
+<tspan x="690" y="286.0"><tspan fill="#f78166">. Languages.Frameworks:</tspan><tspan fill="#484f58">..... </tspan><tspan fill="#a5d6ff">Next.js, Anchor, Node.js, FastAPI</tspan></tspan>
+<tspan x="690" y="308.0"><tspan fill="#f78166">. Languages.Real:</tspan><tspan fill="#484f58">............ </tspan><tspan fill="#a5d6ff">English, Hindi</tspan></tspan>
+<tspan x="690" y="352.0"><tspan fill="#f78166">. Hobbies.Software:</tspan><tspan fill="#484f58">........ </tspan><tspan fill="#a5d6ff">Open Source, AI Agents, Trading Bots</tspan></tspan>
+<tspan x="690" y="374.0"><tspan fill="#f78166">. Hobbies.Hardware:</tspan><tspan fill="#484f58">........ </tspan><tspan fill="#a5d6ff">Custom PC Building, Microcontrollers</tspan></tspan>
+<tspan x="690" y="418.0"><tspan fill="#f78166">- Contact</tspan><tspan fill="#484f58"> -------------------------------------------------------</tspan></tspan>
+<tspan x="690" y="440.0"><tspan fill="#f78166">. Email.Personal:</tspan><tspan fill="#484f58">........... </tspan><tspan fill="#a5d6ff">bhardwajharsh0312@gmail.com</tspan></tspan>
+<tspan x="690" y="462.0"><tspan fill="#f78166">. Email.Work:</tspan><tspan fill="#484f58">............... </tspan><tspan fill="#a5d6ff">harsh@harshuu.me</tspan></tspan>
+<tspan x="690" y="484.0"><tspan fill="#f78166">. Website:</tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#a5d6ff">harshuu.me</tspan></tspan>
+<tspan x="690" y="506.0"><tspan fill="#f78166">. X / Twitter:</tspan><tspan fill="#484f58">............. </tspan><tspan fill="#a5d6ff">@harshuu369</tspan></tspan>
+<tspan x="690" y="528.0"><tspan fill="#f78166">. GitHub:</tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#a5d6ff">github.com/HA2345567</tspan></tspan>
+<tspan x="690" y="572.0"><tspan fill="#f78166">- GitHub Stats</tspan><tspan fill="#484f58"> ---------------------------------------------------</tspan></tspan>
+<tspan x="690" y="594.0"><tspan fill="#f78166">. Repos:</tspan><tspan fill="#484f58"> .... </tspan><tspan fill="#a5d6ff">74 </tspan><tspan fill="#e3b341">{Contributed: 85}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#f78166">Stars:</tspan><tspan fill="#484f58"> .......... </tspan><tspan fill="#a5d6ff">40</tspan></tspan>
+<tspan x="690" y="616.0"><tspan fill="#f78166">. Commits:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#a5d6ff">2,150+ </tspan><tspan fill="#484f58">| </tspan><tspan fill="#f78166">Followers:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#a5d6ff">95</tspan></tspan>
+<tspan x="690" y="638.0"><tspan fill="#f78166">. Lines of Code:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#a5d6ff">384,120 </tspan><tspan fill="#484f58">( </tspan><tspan fill="#7ee787">412,890++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#ffa657">28,770--</tspan><tspan fill="#484f58"> )</tspan></tspan>
   </text>
 </svg>

@@ -369,7 +369,7 @@ def commit_counter(comment_size):
     total_commits = 0
     filename = 'cache/'+hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest()+'.txt' # Use the same filename as cache_builder
     if not os.path.exists(filename):
-        return 978
+        return 2116
     with open(filename, 'r') as f:
         data = f.readlines()
     cache_comment = data[:comment_size] # save the comment block

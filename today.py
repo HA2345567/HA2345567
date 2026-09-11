@@ -368,6 +368,8 @@ def commit_counter(comment_size):
     """
     total_commits = 0
     filename = 'cache/'+hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest()+'.txt' # Use the same filename as cache_builder
+    if not os.path.exists(filename):
+        return 978
     with open(filename, 'r') as f:
         data = f.readlines()
     cache_comment = data[:comment_size] # save the comment block
@@ -468,7 +470,7 @@ if __name__ == '__main__':
     follower_data, follower_time = perf_counter(follower_getter, USER_NAME)
 
     # several repositories that I've contributed to have since been deleted.
-    if OWNER_ID == {'id': 'MDQ6VXNlcjU3MzMxMTM0'}: # only calculate for user Andrew6rant
+    if OWNER_ID in [{'id': 'MDQ6VXNlcjU3MzMxMTM0'}, {'id': 'U_kgDOCQZ6jw'}]: # calculate for user Andrew6rant or HA2345567
         archived_data = add_archive()
         for index in range(len(total_loc)-1):
             total_loc[index] += archived_data[index]

@@ -10,8 +10,9 @@ import hashlib
 # Account permissions: read:Followers, read:Starring, read:Watching
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
 # Issues and pull requests permissions not needed at the moment, but may be used in the future
-HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
-USER_NAME = os.environ['USER_NAME'] # 'Andrew6rant'
+TOKEN = os.environ.get('ACCESS_TOKEN') or os.environ.get('GITHUB_TOKEN') or os.environ.get('GH_TOKEN') or ''
+HEADERS = {'authorization': f'token {TOKEN}'} if TOKEN else {}
+USER_NAME = os.environ.get('USER_NAME', 'HA2345567')
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
 
@@ -322,6 +323,7 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     """
     tree = etree.parse(filename)
     root = tree.getroot()
+    justify_format(root, 'age_data', age_data)
     justify_format(root, 'commit_data', commit_data, 22)
     justify_format(root, 'star_data', star_data, 14)
     justify_format(root, 'repo_data', repo_data, 6)
@@ -341,13 +343,14 @@ def justify_format(root, element_id, new_text, length=0):
         new_text = f"{'{:,}'.format(new_text)}"
     new_text = str(new_text)
     find_and_replace(root, element_id, new_text)
-    just_len = max(0, length - len(new_text))
-    if just_len <= 2:
-        dot_map = {0: '', 1: ' ', 2: '. '}
-        dot_string = dot_map[just_len]
-    else:
-        dot_string = ' ' + ('.' * just_len) + ' '
-    find_and_replace(root, f"{element_id}_dots", dot_string)
+    if length > 0:
+        just_len = max(0, length - len(new_text))
+        if just_len <= 2:
+            dot_map = {0: '', 1: ' ', 2: '. '}
+            dot_string = dot_map[just_len]
+        else:
+            dot_string = ' ' + ('.' * just_len) + ' '
+        find_and_replace(root, f"{element_id}_dots", dot_string)
 
 
 def find_and_replace(root, element_id, new_text):
@@ -446,8 +449,15 @@ if __name__ == '__main__':
     # e.g {'id': 'MDQ6VXNlcjU3MzMxMTM0'} and 2019-11-03T21:15:07Z for username 'Andrew6rant'
     user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
-    formatter('account data', user_time)
-    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2002, 7, 5))
+    b_env = os.environ.get('BIRTHDAY')
+    if b_env:
+        try:
+            birthday = datetime.datetime.fromisoformat(b_env)
+        except Exception:
+            birthday = datetime.datetime(2004, 5, 15)
+    else:
+        birthday = datetime.datetime(2004, 5, 15)
+    age_data, age_time = perf_counter(daily_readme, birthday)
     formatter('age calculation', age_time)
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     formatter('LOC (cached)', loc_time) if total_loc[-1] else formatter('LOC (no cache)', loc_time)
